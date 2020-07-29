@@ -1,4 +1,19 @@
-#Hi, welcome to Verge Scrapper. A tool used for scraping the Verge's website for news and translating them into russian language. 
+# Verge Scrapper
+
+This software can be used to access news websites, grap their articles, and translate them into Russian automatically!
+
+# Installation
+
+You need to install python3 and pip3 in order for the software to work.
+
+After that, please install the dependencies with:
+
+```shell
+chmod +x dependencies.sh
+./dependencies.sh
+```
+
+# Usage
 
 
 To use the tool, just launch the .pyw executable with python3.
