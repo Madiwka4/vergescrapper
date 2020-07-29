@@ -18,4 +18,3 @@ chmod +x dependencies.sh
 
 To use the tool, just launch the .pyw executable with python3.
 
-<b>Warning! YANDEX.PYW USES YANDEX TRANSLATION API, WHILE GOOGLE.PYW USES GOOGLE TRANSLATE</b>
